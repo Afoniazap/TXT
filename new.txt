@@ -1,3 +1,8 @@
 1
 2
 3
+name2
+Afanasiev Igor Aleksandrovich
+age:40
+pets:0
+salary:1000$

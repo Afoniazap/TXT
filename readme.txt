@@ -1,1 +1,1 @@
-Repositiry from command line
+Repository from command line
